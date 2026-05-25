@@ -15,7 +15,7 @@ function App() {
         <p className="text-white text-base">10:10</p>
       </div>
       <div className="flex-1/2 flex flex-col text-white p-6">
-        <div className="flex-1/3 backdrop-blur-xs backdrop-grayscale rounded-4xl p-6">
+        <div className="flex-1/3 backdrop-blur-xs backdrop-grayscale rounded-4xl p-6 flex flex-col gap-4">
           <p>Thunderstorms expected around 00:00</p>
           <div className="h-px w-full bg-white/25" />
           <div className="flex justify-between">
